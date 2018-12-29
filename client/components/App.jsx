@@ -1,5 +1,6 @@
 import React from 'react'
 import List from './List.jsx';
+import ListEntry from './ListEntry.jsx';
 
 class App extends React.Component {
   constructor(props) {
